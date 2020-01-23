@@ -56,7 +56,7 @@
 - Everything is very simple, for a start let's download the archive with files (this can be done by clicking on [me](https://github.com/perssBest/MySql-bot/archive/master.zip))
 
 - To work with the assembly, we need some things.
-1) You need to install [nodejs(official site)(https://nodejs.org/en/)
+1) You need to install [nodejs(official site)](https://nodejs.org/en/)
 2) After installation, we need to register on the site [mysql](https://remotemysql.com/login.php)
 3) After registration, go to the tab **DATABASES**
 4) Find the button **CREATE NEW DATABASE**
@@ -89,7 +89,7 @@
 
 > **Fuh. It’s hard already. I understand that in config.json you need to insert data from the created database.**
 
-- To install the modules we need ** yarn **. If you don’t have one, you can use regular ** npm **
+- To install the modules we need **yarn**. If you don’t have one, you can use regular **npm**
 
 ```
 Installation: yarn add <module>
