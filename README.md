@@ -34,7 +34,7 @@
 
 - Сохранием столбики. Остальные элементы тоже не трогаем.
 
-> **Фух. Сложно уже позади. Напонимаю что в config.json необхоидимо вставить данные от созданной базы данных.
+> **Фух. Сложно уже позади. Напонимаю что в config.json необхоидимо вставить данные от созданной базы данных.**
 
 - Для установки модулей нам понадобиться **yarn**. Если же у вас его нету можете использовать обычный **npm**
 
@@ -47,6 +47,59 @@
 - Запускаем starting.bat. Если у вас бот находится в оффлайне или есть какие-то другие проблемы заходите к нам в [дискорд сервер](https://discord.gg/FcNPVK5) и попросите помощи. Будем вам рады!
 
 > **Не рекомендую устанавливать данную сборку на glitch, wix, repl.it. Оптимальный хост будет Heroku, да и проблем в дальнейшим с ним будет поменьше.**
+
+
+
+
+# [ en ] How to start using this assembly?
+
+- Everything is very simple, for a start let's download the archive with files (this can be done by clicking on [me](https://github.com/perssBest/MySql-bot/archive/master.zip))
+
+- To work with the assembly, we need some things.
+1) You need to install [nodejs(official site)(https://nodejs.org/en/)
+2) After installation, we need to register on the site [mysql](https://remotemysql.com/login.php)
+3) After registration, go to the tab **DATABASES**
+4) Find the button **CREATE NEW DATABASE**
+5) We write down passwords and other data in a notepad(just in case, in the future you may have problems with this.)
+
+- “Unzip the archive in throwing it to a place that suits you.” Open the code editor, go into the project.
+
+- Open **config.json** and adjust everything for yourself.
+
+- Next, let's deal with the database. After you created it, you can twist the base, the **ACTION** button will be next to it, click on it and after we have new buttons, we only need one: ***MyPHPAdmin***.
+
+- After, we must log in using the data that you were given when registering the database.
+
+- In the line "User" insert "Username", in the line "Password", the password from the database (the one that was issued when registering the database itself)
+
+- After a successful login, create a new plate
+![Example](https://cdn.discordapp.com/attachments/653197646823030824/669801093554896916/unknown.png)
+
+- In the window that appears, set the same values as in the screenshot.
+![Screenshot](https://cdn.discordapp.com/attachments/653197646823030824/669802183805501450/unknown.png)
+
+- Do not touch the remaining values! Save the table with the "Save" button
+
+“We need another table.” For Bot Economy. Screenshot of how to create a trace of the table below:
+![Screenshot](https://cdn.discordapp.com/attachments/653197646823030824/669804760400003072/unknown.png)
+
+- Also in stoblik **money, xp, lvl** you can put significant **30000**. This will make a limit of 30.000 coins and so on.
+
+- Save the columns. The remaining elements are also not touched.
+
+> **Fuh. It’s hard already. I understand that in config.json you need to insert data from the created database.**
+
+- To install the modules we need ** yarn **. If you don’t have one, you can use regular ** npm **
+
+```
+Installation: yarn add <module>
+
+Installation: npm install (i) <module>
+```
+
+- We start starting.bat. If your bot is offline or if you have any other problems, go to our [discord server](https://discord.gg/FcNPVK5) and ask for help. We will be glad to see you!
+
+> **I do not recommend installing this assembly on glitch, wix, repl.it. The optimal host will be Heroku, and there will be less problems with it later.**
 
 ### **Огромное спасибо этим людям за поддержку и помощь: | Many thanks to these people for their support and help:**
 
