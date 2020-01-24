@@ -105,7 +105,8 @@ Installation: npm install (i) <module>
 
 > **I do not recommend installing this assembly on glitch, wix, repl.it. The optimal host will be Heroku, and there will be less problems with it later.**
 
-> **Готовая база-данных. Ready database.** ```json
+## **Готовая база-данных. Ready database.** 
+```
   "host": "remotemysql.com",
   "user": "h4wBbXM10s",
   "password": "g7XNHBUCSg",
