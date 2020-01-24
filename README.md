@@ -1,5 +1,7 @@
 # [ ru ] Как начать пользоваться данной сборкой?
 
+> Данная сборка первой версии, соответственно в ней присутствуют баги. В следующий версиях они будут исправлены. Заходите на наш [дискорд сервер](https://discord.gg/FcNPVK5) чтоб указать нам нашедший вами баг
+
 - Все очень просто, для начало давайте скачаем архив с файлами(это можно сделать нажав на [меня](https://github.com/perssBest/MySql-bot/archive/master.zip))
 
 - Для работы со сборкой нам понадобятся некоторые вещи. 
@@ -53,6 +55,8 @@
 
 # [ en ] How to start using this assembly?
 
+> This assembly is the first version, respectively, it contains bugs. In future versions they will be fixed. Visit our [discord server](https://discord.gg/FcNPVK5) to indicate to us the bug that you found
+
 - Everything is very simple, for a start let's download the archive with files (this can be done by clicking on [me](https://github.com/perssBest/MySql-bot/archive/master.zip))
 
 - To work with the assembly, we need some things.
@@ -100,6 +104,14 @@ Installation: npm install (i) <module>
 - We start starting.bat. If your bot is offline or if you have any other problems, go to our [discord server](https://discord.gg/FcNPVK5) and ask for help. We will be glad to see you!
 
 > **I do not recommend installing this assembly on glitch, wix, repl.it. The optimal host will be Heroku, and there will be less problems with it later.**
+
+> **Готовая база-данных. Ready database.** ```json
+  "host": "remotemysql.com",
+  "user": "h4wBbXM10s",
+  "password": "g7XNHBUCSg",
+  "database": "h4wBbXM10s",
+  "port": "3306"
+```
 
 ### **Огромное спасибо этим людям за поддержку и помощь: | Many thanks to these people for their support and help:**
 
