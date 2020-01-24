@@ -11,7 +11,7 @@
 + 4. Находим кнопку **CREATE NEW DATABASE**
 + 5. Записываем пароли, и другие данные в блокнот (на всякий случай, в дальнейшим у Вас могут возникнуть с этим проблемы.)
 
-- Разархивируем архим в перекидываем его в убодное вам место. Открываете редактор кода ([Atom](https://atom.io), 
+- Разархивируем архив в перекидываем его в убодное вам место. Открываете редактор кода ([Atom](https://atom.io), 
 [Visual Studio Code](https://code.visualstudio.com)) и заходите в проект.
 
 - Открываем файл под названием **config.json** и подстраиваем все настройки под себя.
@@ -68,7 +68,7 @@
 5) We write down passwords and other data in a notepad(just in case, in the future you may have problems with this.)
 
 - “Unzip the archive in throwing it to a place that suits you.” Open the code editor([Atom](https://atom.io), 
-[Visual Studio Code](https://code.visualstudio.com) go into the project.
+[Visual Studio Code](https://code.visualstudio.com)) go into the project.
 
 - Open **config.json** and adjust everything for yourself.
 
